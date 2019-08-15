@@ -138,6 +138,18 @@ header {
   position: fixed;
 }
 
+.wakatime-embed {
+  width: 49%;
+  display: inline-block;
+  margin: 0;
+}
+
+@media (max-width: 1024px) {
+  .wakatime-embed {
+    width: 100%;
+  }
+}
+
 @media (max-width: 768px) {
   header {
     position: relative;
