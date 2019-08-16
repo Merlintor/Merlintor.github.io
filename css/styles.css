@@ -187,6 +187,11 @@ header ul.social-links {
   width: 170px;
 }
 
+.social-links i {
+  font-size: 35px;
+  color: black;
+}
+
 header li {
   float:left;
   margin-left:0px;
