@@ -1,2 +1,2 @@
-# Merlintor.github.io
-My personal website. Heavily inspired by https://github.com/alanhamlett/alanhamlett.github.com
+# merlin.gg
+My personal website. Heavily inspired by https://evanyou.me/
